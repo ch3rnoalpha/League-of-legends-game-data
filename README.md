@@ -2,3 +2,5 @@
 This dataset contains the first 10min. stats of approx. 10k ranked games (SOLO QUEUE) from a high ELO (DIAMOND I to MASTER). Players have roughly the same level.
 
 https://www.kaggle.com/datasets/bobbyscience/league-of-legends-diamond-ranked-games-10-min?resource=download
+
+https://docs.google.com/presentation/d/1Sps98TkdfDitBRrmYrrQkgtzCIo03MPas-IqxH7pvfM/edit?usp=sharing
